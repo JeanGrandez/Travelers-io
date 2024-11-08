@@ -1,0 +1,6 @@
+@TravelersIO_HostAddress = http://localhost:5141
+
+GET {{TravelersIO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
